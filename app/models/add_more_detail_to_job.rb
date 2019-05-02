@@ -1,0 +1,2 @@
+class AddMoreDetailToJob < ApplicationRecord
+end
