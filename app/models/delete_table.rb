@@ -1,0 +1,2 @@
+class DeleteTable < ApplicationRecord
+end
